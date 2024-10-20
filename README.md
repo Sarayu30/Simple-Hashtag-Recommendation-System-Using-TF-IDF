@@ -25,6 +25,7 @@ To run this project, you will need the following Python packages:
 2. Install the required packages by running:
 
    pip install -r requirements.txt
+   
 3.Download the SpaCy language model:
 
 python -m spacy download en_core_web_sm
